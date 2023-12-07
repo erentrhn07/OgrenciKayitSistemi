@@ -1,5 +1,4 @@
 # OgrenciKayitSistemi
-
 Bu Java programı öğrenci kayıt sistemini temsil eder. Bu kayıt sistemi Intellij IDEA uygulamasında yapılmıştır.
 1)Ders.java :  Bir Ders sınıfı ve bu sınıftan nesneler oluşturan bir main metodu içerir. Ayrıca, ozelDersListesiOlustur metodunu kullanarak Ders nesnelerinin bir listesini oluşturur.
 2)Ogrenci.java : Bir öğrencinin temel özelliklerini ve aldığı dersleri temsil etmek üzere oluşturulmuştur. Ogrenci sınıfı, öğrenci bilgilerini depolamak ve bu bilgilere erişim sağlamak için kullanılır.
